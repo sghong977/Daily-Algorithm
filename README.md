@@ -1,4 +1,4 @@
-# My-algorithm-study
+# Daily-Algorithm
 프로그래머스 푼 것 꾸준히 올려볼 예정.
 
 - 아래 리스트는 거의 시간순
