@@ -25,4 +25,7 @@
 - [Lv.1] 신고 결과 받기
 
 
+정답률 순설호 정렬되어있어서 이거 풀어도 될듯. https://school.programmers.co.kr/learn/challenges
+
+
 그 머냐.. 리트코드라는게 있다고 하는데 나중에 보께요. 그것도 알고리즘같은거면 여기에 넣을래
