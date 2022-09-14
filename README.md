@@ -24,8 +24,12 @@
 ### 2022 카카오 블라인드 채용 문제집
 - [Lv.1] 신고 결과 받기
 
+### 연습문제
+- [Lv.2] N개의 최소공배수
+- [Lv.3] 야근 지수
 
-정답률 순설호 정렬되어있어서 이거 풀어도 될듯. https://school.programmers.co.kr/learn/challenges
+
+정답률 순서로 정렬되어있어서 이거 풀어도 될듯. https://school.programmers.co.kr/learn/challenges
 
 
 그 머냐.. 리트코드라는게 있다고 하는데 나중에 보께요. 그것도 알고리즘같은거면 여기에 넣을래
