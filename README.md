@@ -27,6 +27,7 @@
 ### 연습문제
 - [Lv.2] N개의 최소공배수
 - [Lv.3] 야근 지수
+- [Lv.3] 정수 삼각형
 
 
 정답률 순서로 정렬되어있어서 이거 풀어도 될듯. https://school.programmers.co.kr/learn/challenges
